@@ -283,3 +283,10 @@ C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\obj\Debug\net9.0\re
 C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\obj\Debug\net9.0\q2-q3-s5-loyola.pdb
 C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\obj\Debug\net9.0\q2-q3-s5-loyola.genruntimeconfig.cache
 C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\obj\Debug\net9.0\ref\q2-q3-s5-loyola.dll
+C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\bin\Debug\net9.0\publish\web.config
+C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\bin\Debug\net9.0\publish\q2-q3-s5-loyola.deps.json
+C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\bin\Debug\net9.0\publish\q2-q3-s5-loyola.runtimeconfig.json
+C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\bin\Debug\net9.0\publish\q2-q3-s5-loyola.staticwebassets.endpoints.json
+C:\Users\Marcus\source\repos\q2-q3-s5-loyola\q2-q3-s5-loyola\obj\Debug\net9.0\q2-q3-s5-loyola.sourcelink.json
