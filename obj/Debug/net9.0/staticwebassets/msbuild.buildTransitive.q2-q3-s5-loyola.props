@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\q2-q3-s5-loyola.props" />
+</Project>

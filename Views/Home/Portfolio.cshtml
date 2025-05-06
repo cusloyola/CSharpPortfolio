@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Projects";
+}
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet" />
+
+<style>
+    .fade-in {
+        opacity: 0;
+        animation: fadeInUp 1s ease-in-out forwards;
+    }
+
+    .fade-in-delay-1 {
+        animation-delay: 0.3s;
+    }
+
+    .fade-in-delay-2 {
+        animation-delay: 0.6s;
+    }
+
+</style>
+
+<div class="container py-5">
+    <div class="bg-light py-5 text-center">
+        <div class="container">
+            <h1 class="animate__animated animate__fadeInDown animate__delay-1s display-4 fw-bold">My Recent Projects</h1>
+            <p class="lead text-muted">A collection of school projects I did to gain experience</p>
+        </div>
+    </div>
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+        <div class="col fade-in fade-in-delay-1">
+            <div class="card shadow-lg border-light rounded h-100">
+                <img src="~/images/HOMEHUB.png" class="card-img-top rounded-top" alt="Homehub Project Image">
+                <div class="card-body">
+                    <h4 class="card-title text-success">
+                        <i class="bi bi-house-door-fill"></i> Homehub
+                    </h4>
+                    <p class="card-text">A React + Node.js e-commerce platform. I built the backend, integrated with MySQL, and developed the system for product management and checkout functionality.</p>
+                    <a href="https://github.com/yourusername/homehub" class="btn btn-outline-success" target="_blank">View on GitHub</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col fade-in fade-in-delay-2">
+            <div class="card shadow-lg border-light rounded h-100">
+                <img src="~/images/BITWISE.png" class="card-img-top rounded-top" alt="BitWise Project Image">
+                <div class="card-body">
+                    <h4 class="card-title text-warning">
+                        <i class="bi bi-building"></i> BitWise
+                    </h4>
+                    <p class="card-text">A rental system built with Node.js and MySQL. I focused on the backend and database integration, providing a seamless experience for landlords and tenants.</p>
+                    <a href="https://github.com/yourusername/bitwise" class="btn btn-outline-warning" target="_blank">View on GitHub</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
